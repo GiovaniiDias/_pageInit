@@ -1,0 +1,50 @@
+body{
+    background-image: linear-gradient( to bottom, rgb(31, 177, 240), rgb(56, 35, 175), rgb(54, 18, 93), rgb(17, 17, 50) );
+} 
+
+.foto-perfil{
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 50%;
+}
+.corPrimaria{
+    background-color: rgb(100, 100, 100);
+}
+.corSecundaria{
+    background-color: rgb(85, 85, 229);
+
+}
+p{
+    font-family: Lato, "Helvetica Neue", Helvetica, sans-serif ;
+    color: #000 !important;
+}
+.icones{
+    padding-left: 5px;
+}
+.titulosBrancos{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+.textoBranco{
+    color: white;
+}
+h3{
+    color: rgb(58, 58, 211) !important;
+}
+.jumbotron{
+    
+    margin-bottom: 0px;
+}
+.textFooter{
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+html{
+    scroll-behavior: smooth;
+}
